@@ -1,0 +1,23 @@
+
+---
+
+### **2. 33_APIDriftScanner**  
+**Description:**  
+Tracks multiple API endpoints over time and detects drift in latency, uptime, and response codes.
+
+#### **README.md**
+```markdown
+# APIDriftScanner - Time-Based API Performance Tracker
+
+APIDriftScanner watches endpoints and highlights trends in degradation or unexpected performance variation.
+
+## Features
+- Drift detection over time  
+- HTTP status & latency logging  
+- Optional chart output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_APIDriftScanner.git
+cd 33_APIDriftScanner
+python monitor.py
