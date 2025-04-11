@@ -1,0 +1,23 @@
+
+---
+
+### **3. 33_LogCascadeMapper**  
+**Description:**  
+A log analysis tool that identifies cascading patterns, repeating alerts, and bursty clusters.
+
+#### **README.md**
+```markdown
+# LogCascadeMapper - Burst & Cascade Log Analyzer
+
+LogCascadeMapper tracks error repetition and escalation patterns, helping identify root causes in log data.
+
+## Features
+- Pattern repetition tracker  
+- Burst timing clusters  
+- CLI log summaries  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_LogCascadeMapper.git
+cd 33_LogCascadeMapper
+python analyze.py
