@@ -1,0 +1,23 @@
+
+---
+
+### **4. 33_RealtimePlotSphere**  
+**Description:**  
+Live line-chart visualizer for incoming streams of numeric data.
+
+#### **README.md**
+```markdown
+# RealtimePlotSphere - Live Metric Visualizer
+
+RealtimePlotSphere renders incoming data in real time using smooth, scrollable Matplotlib-based graphs.
+
+## Features
+- Scrollable chart  
+- Adjustable frame rate  
+- Lightweight UI  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_RealtimePlotSphere.git
+cd 33_RealtimePlotSphere
+python visualize.py
